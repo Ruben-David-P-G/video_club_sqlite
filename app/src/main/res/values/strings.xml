@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Video Club_Tic</string>
+    <string name="msj1">LLena todos los datos</string>
+    <string name="msj2">Escribe el numero de la pelicula</string>
+    <string name="msj3">pelicula Registrada</string>
+    <string name="msj4">pelicula Inexistente</string>
+    <string name="msj5">pelicula Eliminada</string>
+    <string name="msj6">pelicula Actualizada</string>
+
+    <string name="msj12">Escribe el numero de la venta</string>
+    <string name="msj13">venta Registrada</string>
+    <string name="msj14">venta Inexistente</string>
+    <string name="msj15">venta Eliminada</string>
+    <string name="msj16">venta Actualizada</string>
+
+    <string name="msj22">Escribe el numero de la renta</string>
+    <string name="msj23">renta Registrada</string>
+    <string name="msj24">renta Inexistente</string>
+    <string name="msj25">renta Eliminada</string>
+    <string name="msj26">renta Actualizada</string>
+</resources>
